@@ -102,7 +102,7 @@ Alifi mendekat dan menaruh sachet itu tepat di pangkuan Yuni.
 
 Yuni berdiri perlahan, lalu tanpa aba-aba **mencubit keras hidung Alifi** sampai cowok itu meringis.
 
-> “**JANUUUUU...!**”
+> “**AIFIIII...!**”
 
 > “**Aw-aw-aw! Sakit beneran itu!**”
 
@@ -643,7 +643,7 @@ Yuni **refleks mendorong perut Alifi** kenceng banget.
 > “Ihhhhh... sakitt... dasar refleks kayak ninja...”
 
 > **Yuni (nahan takut sambil kesal):**  
-> “JANUUUUUU!!! Jangan gitu doong, aku beneran takut...!”
+> “ALIFIIIII!!! Jangan gitu doong, aku beneran takut...!”
 
 > **Alifi (masih ngakak pelan sambil garuk pipi):**  
 > “Hehe... maap maap... tapi ekspresi kamu barusan... kaya... Hahaha” Alifi kembali tertawa.

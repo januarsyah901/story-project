@@ -102,7 +102,7 @@ Alifi mendekat dan menaruh sachet itu tepat di pangkuan Yuni.
 
 Yuni berdiri perlahan, lalu tanpa aba-aba **mencubit keras hidung Alifi** sampai cowok itu meringis.
 
-> “**AIFIIII...!**”
+> “**ALIFIIII...!**”
 
 > “**Aw-aw-aw! Sakit beneran itu!**”
 

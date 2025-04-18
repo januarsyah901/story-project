@@ -40,7 +40,7 @@ Malam itu, setelah salat Isya, mereka kembali janjian untuk belajar bareng. Sepe
 
 Alifi datang dengan kaos putih bergambar seekor kucing yang sedang menjilati tubuhnya, dipadukan dengan jaket varsity yang sedikit kebesaran sebagai outernya—gaya kasual khas dirinya. Sementara itu, Ziva mengenakan kaus putih panjang yang jatuh hingga pertengahan paha, dipadukan dengan celana gelap sedikit kelombor yang membuat penampilannya terkesan santai, tapi tetap rapi. Tapi pas udah nyampe di depan kos Ziva, Alifi tepok jidat—ada barang yang ketinggalan di kosnya sendiri.
 
-> "Aduh, Yu... bentar ya, aku ambil dulu ke kos."
+> "Aduh, Ziv... bentar ya, aku ambil dulu ke kos."
 
 Ziva hanya mengangguk, berdiri santai di teras sambil buka HP.
 

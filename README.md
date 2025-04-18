@@ -5,4 +5,4 @@ ini memang cerita yang dibuat dengan bantuan AI ya, jadi aku bikin cuma buat hav
 
 Kalo kalian pengen baca, tinggal masuk ke foldernya aja, file ceritanya ada di sana.
 
-## disclaimer : abaikan folder `.idea` dan file `DS_Store`
+## Remainder : abaikan folder `.idea` dan file `DS_Store`

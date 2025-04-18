@@ -703,7 +703,7 @@ Ziva **refleks mendorong perut Alifi** kenceng banget.
 **Ziva pun membawa selimut itu naik ke kasur. Ia gulung selimutnya pelan, lalu tiduran sambil membelakangi Alifi. Tapi sebelum memejamkan mata…**
 
 > **Ziva (pelan, hampir nggak terdengar):**  
-> “Makasih ya, Nu…”
+> “Makasih ya, Al…”
 
 **Alifi hanya tersenyum kecil di pojok ruangan, cahaya dari senter dalam gelas menyinari setengah wajahnya.**
 
@@ -744,6 +744,8 @@ Sementara itu, lagu terus berputar...
 
 ---
 
+**15 menit berlalu.... ziva telah terbawa ke alam mimpi.**
+
 Alifi berdiri pelan, tubuhnya agak limbung karena mulai ngantuk berat. Ia menguap lebar sambil menutup mulut dengan tangan kanan.
 
 > **Alifi (pelan, sambil setengah mengantuk):**  
@@ -759,7 +761,7 @@ Ia meraih bantal itu, lalu kembali ke tikar yang masih terbentang.
 **Kamar kos itu sekarang benar-benar gelap gulita.**
 
 > **Alifi (gumam, setengah berbisik):**  
-> “Maaf ya ZI... aku juga ikut ngantuk, hehe.” Alifi menguap
+> “Maaf ya Ziv... aku juga ikut ngantuk, hehe.” Alifi menguap
 
 Ia menurunkan tubuhnya ke atas tikar, pelan. Satu sisi tubuhnya langsung menyentuh permukaan yang dingin.
 
@@ -844,8 +846,6 @@ Ia menutup mata, dan perlahan mengendurkan tubuh.
 **...dengan satu bantal panjang, satu selimut tebal, dan cerita yang belum selesai.**
 
 ---
-
-**Scene: Tengah malam, kamar kos masih gelap gulita, hujan belum juga reda, angin malam sesekali mengetuk kisi-kisi jendela.**
 
 Ziva baru saja hendak memasuki tidurnya. Nafasnya mulai tenang, tubuhnya mulai mengendu. Namun seketika itu semua sirna dan berubah.
 

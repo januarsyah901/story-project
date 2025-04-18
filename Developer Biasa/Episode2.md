@@ -751,9 +751,6 @@ Si kucing hanya memiringkan kepala dan mengeong pelan, seolah pasrah menerima na
 
 ---
 
-Berikut versi yang diperhalus biar tetap hangat dan lucu:
-
----
 
 >**Alifi:** *(menata gombal lusuh di dekat pintu seperti sedang menyiapkan ranjang bayi)*  
 *"Oke Teko, sementara ini kamu bobonya di sini ya. VIP seat dekat pintu."*  

@@ -502,7 +502,9 @@ Setelah puas ngobrol di bangku taman Mereka kembali melangkah pelan di sepanjang
 
 Ziva spontan berhenti.
 >**Ziva:** *"Al, denger gak?"*  
+
 > **Alifi (berhenti juga):** *"Suara kamu pas nangis?"*  
+
 > **Ziva (melotot):** *"Eh sumpah, ini beneran suara kucing deh."*
 
 Mereka mulai menajamkan pendengaran.  
@@ -515,6 +517,7 @@ Mereka pun perlahan menelusuri suara itu, melewati rerumputan dan sedikit tanah 
 Di balik jeruji saluran air yang sedikit terbuka, seekor **kucing remaja**, bulunya jingga, duduk meringkuk di sudut selokan yang kering. Matanya besar, tampak bingung, tapi nggak kelihatan ketakutan.
 
 >**Ziva:** *"Aduh kasihan banget. Dia sendirian. Kejebak kali ya?"*  
+
 >**Alifi:** *"Kalo dia bisa ngomong pasti udah bilang: ‘Bang tolongin gue bang.’”*
 
 Ziva pelan-pelan mendekat.
@@ -523,6 +526,7 @@ Ziva pelan-pelan mendekat.
 Ajaibnya, kucing itu **nggak kabur**. Dia malah bangkit, jalan pelan, dan dengan hati-hati naik ke tepi selokan. Ziva menyambutnya dengan tangan terbuka, lalu mengangkatnya dengan penuh hati-hati.
 
 >**Alifi:** *"Wah nurut banget... jangan-jangan ini kucing kampus yang udah sering ngikutin mahasiswa."*  
+
 > **Ziva (tersenyum):** *"Tapi lucu banget, Al. Liat tuh matanya, kayak abis nonton drama Korea episode terakhir."*
 
 >**Alifi:** *"Atau abis dihujat netizen."*
@@ -640,6 +644,7 @@ Matanya tertuju pada sesuatu yang berbeda—bercak merah di punggung Alifi, sama
 Alifi langsung menoleh, berusaha melihat sendiri meski tentu tak bisa.  
 >**Alifi:**  
 *"Hah? Masa sih?"*  
+
 Ia terdiam sejenak seperti sedang ‘loading’, lalu mendadak berlagak dramatis sambil memegang punggungnya.  
 >**Alifi:**  
 *"Aduh… aduhhh… aku terluka, Ziv. Hidupku tinggal hitungan detik..."*
@@ -803,6 +808,7 @@ Ia mengambilnya dari meja kecil dan melihat nama yang tertera di layar. “Aini.
 
 Ziva menggeser ikon hijau.  
 >**Ziva:** “Ya, halo, An?”  
+
 >**Aini (berteriak):** “Zivvv! Ke mana aja semalem!? Eh—nggak penting! Yang penting sekarang lo harus cepet balik kos! Enak banget gue ngepel sama nyapu sendiri kayak babu!”
 
 Alifi yang duduk tak jauh dari Ziva langsung menimpali, suaranya sengaja dikeraskan.  
@@ -810,8 +816,12 @@ Alifi yang duduk tak jauh dari Ziva langsung menimpali, suaranya sengaja dikeras
 
 Belum sempat selesai, Ziva buru-buru menutup mulut Alifi dengan telapak tangannya.  
 >**Ziva (berbisik tegas):** “Heh, bisa diem gak?”  
->**Aini (di seberang telpon):** “Oh... jadi kamu sama Alifi, ya? Alll~”  
+
+
+>**Aini (di seberang telpon):** “Oh... jadi kamu sama Alifi, ya? Alll~”
+
 >**Ziva:** “Jangan mulai, An...”  
+
 **Aini:** “Udah, pokoknya anterin balik sekarang. Sekarang, Ziva. Gue nggak peduli, abis bersih-bersih mau lo bawa lagi juga terserah—mau lo jual kek, asuh bareng juga gak masalah!”
 
 Alifi tertawa geli mendengarnya.  
@@ -819,7 +829,8 @@ Alifi tertawa geli mendengarnya.
 >**Alifi (ikut menyaut centil):** “Iya, ditunggu ya, sayang~”
 
 >**Aini:** “Heh, Alifi nih ya... hiiii~ nyebelin!”  
->**Aini:** “Yaudah. Cepet! Assalamu’alaikum.”  
+
+>**Aini:** “Yaudah. Cepet! Assalamu’alaikum.”
 **Klik.** (Suara sambungan diputus.)
 
 Ziva menghela napas sambil menatap kesal ke arah Alifi. Tapi senyum tipis tetap muncul di ujung bibirnya.

@@ -689,7 +689,7 @@ Ziva **refleks mendorong perut Alifi** kenceng banget.
 > **Alifi (pura-pura marah):**  
 > “Sssttt... Ga sopan bohong sama orang tua.”
 
-**Ziva ngedelik sebel sambil pegang bibirnya. Tapi akhirnya senZivm juga.**
+**Ziva ngedelik sebel sambil pegang bibirnya. Tapi akhirnya senyum juga.**
 
 > **Ziva (sambil menatap Alifi):**  
 > “Kamu ga tidur, Al?”

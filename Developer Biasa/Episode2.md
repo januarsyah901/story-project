@@ -1,1 +1,1 @@
-# **Dah dibilang jangan dibuka, malah dibuka, keras kepala banget jadi orang!**
+# **Belum jadi ya,, sabar dulu**

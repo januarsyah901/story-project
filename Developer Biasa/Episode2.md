@@ -168,7 +168,7 @@ Hanya senyum kecil mengembang tanpa suara.
 
 > **Alifi (dari seberang tikar, sambil mengaduk teh):**  
 > “Ngapa senyum-senyum sendiri, Ziv..."
-> 
+>
 **Ziva langsung menyambut tuduhan itu dengan gaya absurd.**
 
 > **Ziva (menahan ketawa, menatap Alifi dengan muka sok serius):**  
@@ -490,7 +490,7 @@ Alifi dan Ziva saling pandang, lalu sama-sama ngakak.
 > *"Gawat sih tadi... kirain tadi langsung dikasi tugas di tempat."*
 
 >**Ziva:**  
-> *"Udah bagus Pak Budi lagi santai... kalo pas bawa absen? Kita udah diskors dari taman ini."* 
+> *"Udah bagus Pak Budi lagi santai... kalo pas bawa absen? Kita udah diskors dari taman ini."*
 
 Gelak tawa pun pecah di bangku taman
 
@@ -501,9 +501,9 @@ Setelah puas ngobrol di bangku taman Mereka kembali melangkah pelan di sepanjang
 > **"Meooong… meoong…"**
 
 Ziva spontan berhenti.
->**Ziva:** *"Al, denger gak?"*  
+>**Ziva:** *"Al, denger gak?"*
 
-> **Alifi (berhenti juga):** *"Suara kamu pas nangis?"*  
+> **Alifi (berhenti juga):** *"Suara kamu pas nangis?"*
 
 > **Ziva (melotot):** *"Eh sumpah, ini beneran suara kucing deh."*
 
@@ -516,7 +516,7 @@ Mereka pun perlahan menelusuri suara itu, melewati rerumputan dan sedikit tanah 
 
 Di balik jeruji saluran air yang sedikit terbuka, seekor **kucing remaja**, bulunya jingga, duduk meringkuk di sudut selokan yang kering. Matanya besar, tampak bingung, tapi nggak kelihatan ketakutan.
 
->**Ziva:** *"Aduh kasihan banget. Dia sendirian. Kejebak kali ya?"*  
+>**Ziva:** *"Aduh kasihan banget. Dia sendirian. Kejebak kali ya?"*
 
 >**Alifi:** *"Kalo dia bisa ngomong pasti udah bilang: ‘Bang tolongin gue bang.’”*
 
@@ -525,7 +525,7 @@ Ziva pelan-pelan mendekat.
 
 Ajaibnya, kucing itu **nggak kabur**. Dia malah bangkit, jalan pelan, dan dengan hati-hati naik ke tepi selokan. Ziva menyambutnya dengan tangan terbuka, lalu mengangkatnya dengan penuh hati-hati.
 
->**Alifi:** *"Wah nurut banget... jangan-jangan ini kucing kampus yang udah sering ngikutin mahasiswa."*  
+>**Alifi:** *"Wah nurut banget... jangan-jangan ini kucing kampus yang udah sering ngikutin mahasiswa."*
 
 > **Ziva (tersenyum):** *"Tapi lucu banget, Al. Liat tuh matanya, kayak abis nonton drama Korea episode terakhir."*
 
@@ -641,18 +641,18 @@ Matanya tertuju pada sesuatu yang berbeda—bercak merah di punggung Alifi, sama
 >**Ziva:** *(dengan nada cemas)*  
 *"Al… punggungmu berdarah."*
 
-Alifi langsung menoleh, berusaha melihat sendiri meski tentu tak bisa.  
+Alifi langsung menoleh, berusaha melihat sendiri meski tentu tak bisa.
 >**Alifi:**  
-*"Hah? Masa sih?"*  
+*"Hah? Masa sih?"*
 
-Ia terdiam sejenak seperti sedang ‘loading’, lalu mendadak berlagak dramatis sambil memegang punggungnya.  
+Ia terdiam sejenak seperti sedang ‘loading’, lalu mendadak berlagak dramatis sambil memegang punggungnya.
 >**Alifi:**  
 *"Aduh… aduhhh… aku terluka, Ziv. Hidupku tinggal hitungan detik..."*
 
 >**Ziva:** *(mendengus sambil melipat tangan)*  
 *"Ya gak gitu juga, Al. Gak usah kayak pemain sinetron jam 12 malam."*
 
-Alifi terkekeh kecil, lalu perlahan berdiri dan berjalan mendekati Ziva.  
+Alifi terkekeh kecil, lalu perlahan berdiri dan berjalan mendekati Ziva.
 >**Alifi:**  
 *"Panjang gak, Ziv? Nih, lihat deh."*
 
@@ -806,29 +806,29 @@ Pagi itu, sekitar jam delapan, mereka bertiga — Ziva, Alifi, dan Teko — seda
 Tiba-tiba ponsel Ziva berdering.  
 Ia mengambilnya dari meja kecil dan melihat nama yang tertera di layar. “Aini.”
 
-Ziva menggeser ikon hijau.  
->**Ziva:** “Ya, halo, An?”  
+Ziva menggeser ikon hijau.
+>**Ziva:** “Ya, halo, An?”
 
 >**Aini (berteriak):** “Zivvv! Ke mana aja semalem!? Eh—nggak penting! Yang penting sekarang lo harus cepet balik kos! Enak banget gue ngepel sama nyapu sendiri kayak babu!”
 
-Alifi yang duduk tak jauh dari Ziva langsung menimpali, suaranya sengaja dikeraskan.  
+Alifi yang duduk tak jauh dari Ziva langsung menimpali, suaranya sengaja dikeraskan.
 >**Alifi:** “Iya, An, dia tadi malem main ke sini. Katanya sih emang males bersih-be—”
 
-Belum sempat selesai, Ziva buru-buru menutup mulut Alifi dengan telapak tangannya.  
->**Ziva (berbisik tegas):** “Heh, bisa diem gak?”  
+Belum sempat selesai, Ziva buru-buru menutup mulut Alifi dengan telapak tangannya.
+>**Ziva (berbisik tegas):** “Heh, bisa diem gak?”
 
 
 >**Aini (di seberang telpon):** “Oh... jadi kamu sama Alifi, ya? Alll~”
 
->**Ziva:** “Jangan mulai, An...”  
+>**Ziva:** “Jangan mulai, An...”
 
 **Aini:** “Udah, pokoknya anterin balik sekarang. Sekarang, Ziva. Gue nggak peduli, abis bersih-bersih mau lo bawa lagi juga terserah—mau lo jual kek, asuh bareng juga gak masalah!”
 
-Alifi tertawa geli mendengarnya.  
+Alifi tertawa geli mendengarnya.
 >**Ziva (berusaha serius):** “Iya An, iya. Aku balik abis ini, tunggu ya, sayang.”  
 >**Alifi (ikut menyaut centil):** “Iya, ditunggu ya, sayang~”
 
->**Aini:** “Heh, Alifi nih ya... hiiii~ nyebelin!”  
+>**Aini:** “Heh, Alifi nih ya... hiiii~ nyebelin!”
 
 >**Aini:** “Yaudah. Cepet! Assalamu’alaikum.”
 **Klik.** (Suara sambungan diputus.)
@@ -848,7 +848,7 @@ Setelah telepon ditutup, Ziva mulai membereskan barang-barangnya yang tercecer d
 >**Ziva (meledek):**  
 “Bagus. Gue bakal nilai pelayanan lo nanti di Google Maps.”
 
-Teko mengeong kecil, seakan tak rela Ziva pergi.  
+Teko mengeong kecil, seakan tak rela Ziva pergi.
 >**Ziva (sambil jongkok):**  
 “Bye dulu ya Tekooo~ jangan gigit kaki orang ya. Nanti mama balik lagi.”
 
@@ -868,7 +868,7 @@ Beberapa menit kemudian, mereka pun meluncur dengan motor Supra tua kesayangan A
 Ziva tidak langsung menjawab, meskipun ia tau pikirannya dengan Alifi tentang tadi malam berbeda. Hanya angin dan suara motor yang terdengar. Tapi tangan Ziva sedikit merapat ke pinggang Alifi — tak terlalu erat, tapi cukup membuat Alifi diam sejenak.
 
 ---
-
+![thumbnail eps  2 2.png](assets/thumbnail%20eps%20%202%202.png)
 Sesampainya di depan kos Ziva, Alifi mematikan mesin motor.
 
 >**Alifi:**  

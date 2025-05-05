@@ -877,3 +877,5 @@ Dan...
 _**Bersambung**_
 
 ---
+
+docker container create --name mongodata --publish 27018:27017 --mount "type=bind,source=/Users/mrfrog/Documents/belajar/belajar-docker-dasar/mongo-data,destination=/data/db" --env MONGO_INITDB_ROOT_USERNAME=janu --env MONGO_INITDB_ROOT_PASSWORD=janu mongo:latest

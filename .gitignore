@@ -1,0 +1,9 @@
+# Ignore JetBrains/IDEA config
+.idea/
+
+# Ignore macOS system file
+.DS_Store
+**/.DS_Store
+
+# Optional: ignore DS_Store di seluruh subfolder (lebih ketat)
+Developer Biasa/.DS_Store

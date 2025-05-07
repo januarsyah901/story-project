@@ -7,4 +7,4 @@ Kalo kalian pengen baca, tinggal masuk ke foldernya aja, file ceritanya ada di s
 
 Untuk saran atau komentar bisa tinggalin di issue repository ini ya, ini linknya, tinggal bikin issue baru aja: https://github.com/januarsyah901/story-project/issues
 
-## Remainder : abaikan folder `.idea` dan file `DS_Store`
+

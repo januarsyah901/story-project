@@ -130,19 +130,19 @@ Ia meletakkan dua gelas itu di tengah tikar, lalu duduk di seberangnya, sambil s
 
 > “**Cokolatosnya, bang.**” katanya sambil menatap Alifi.
 
-> “**Wah, oh iya mbak... password WiFi-nya apa ya?**” tanya Alifi sambil meraih gelasnya.
+> “**Wah, oh iya bang... password WiFi-nya apa ya?**” tanya zifa sambil meraih gelasnya.
 
-Ziva pura-pura serius, lalu berkata pelan:
+Alifi pura-pura serius, lalu berkata pelan:
 
 > “**Password-nya: *akusayangkamu*.**”
 
-Alifi langsung nyengir lebar.
+Zifa langsung nyengir lebar.
 
-> “**Maaf mbak... aku udah punya suami.**” katanya sambil menahan tawa.
+> “**Maaf mas... aku udah punya istri.**” katanya sambil menahan tawa.
 
-Ziva ngakak.
+Alifi ngakak.
 
-> “**HAHAHAHA yekkk, Alifi GAYYYY!**”
+> “**HAHAHAHA yekkk, Zifa Homooo!**”
 
 Tawa mereka pecah bersamaan dengan suara hujan yang menampar atap. Di dalam kamar kecil dengan tikar di tengahnya dan musik lofi sebagai latar, malam terasa hangat... bahkan tanpa jaket atau selimut.
 

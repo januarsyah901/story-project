@@ -1,65 +1,74 @@
-## **BAB 7 — Keberanian dalam Bungkus Karet Dua**
+## **BAB 6 — Bingkisan Terakhir**
 
-Semester baru menghantam tanpa peringatan.
+Udara di dalam kelas hari itu terasa lebih ringan, namun entah kenapa, Juan merasa paru-parunya sedikit menyempit. Tidak ada lagi proyektor yang menampilkan barisan *log* digital yang rumit. Tidak ada lagi instruksi praktik yang membuat dahi berkerut. Hari ini hanya tentang penutup. Tentang sebuah akhir yang datang tanpa permisi.
 
-Jadwal kuliah berubah total, ruang-ruang kelas berganti suasana, dan untuk pertama kalinya dalam beberapa bulan terakhir, Juan duduk di bangku kuliah tanpa melihat sosok familiar di depan meja dosen. Tidak ada meja asisten dosen yang rapi. Tidak ada suara tenang yang biasa menginterupsi langkah-langkah teknisnya.
+Hana dan Silva berdiri di depan kelas dengan posisi santai, kali ini tanpa laptop yang menghalangi pandangan. Silva, seperti biasa, menjadi orang pertama yang memecah suasana.
 
-Juan tidak tahu—dan sejujurnya, ia tidak punya cukup nyali untuk sekadar bertanya ke kating—apakah Hana masih mengasdos atau sudah sibuk dengan skripsinya. Yang ia tahu pasti, hari Kamis kini terasa hambar. Biasa saja.
+“Terima kasih ya, semuanya,” kata Silva dengan senyum lebarnya yang khas. “Sudah satu semester bareng kami. Seru banget bisa kenal kalian.”
 
-Selesai kelas, Juan dan Nino kembali ke titik koordinat lama mereka: kos Juan. Laptop terbuka, suara *loading* game menggema, dan candaan-candaan sampah dilempar tanpa arah untuk membunuh sepi.
+Hana mengangguk pelan di sampingnya, tatapannya menyapu seisi ruangan—termasuk bangku belakang tempat Juan duduk tegak. “Makasih juga buat kalian. Maaf kalau kami ada salah, dan semoga ilmunya benar-benar kepakai nanti.”
 
-“Lu sadar nggak, Bre,” cetus Nino sambil merebahkan diri di lantai yang dingin, “hidup kita ini cuma muter-muter di tiga lubang hitam doang.”
+Tepuk tangan pecah. Tidak serempak, namun cukup hangat untuk memenuhi ruangan yang biasanya kaku itu. Juan ikut bertepuk tangan, namun matanya tidak lepas dari sosok di depan. Ada rasa lega karena beban semester tiga akhirnya terangkat, namun ada juga rasa kehilangan yang mulai merambat pelan, mengingatkannya bahwa Kamis depan tidak akan ada lagi alasan untuk datang lebih pagi.
 
-Juan melirik dari balik layar laptop. “Apaan?”
+“Foto bareng dulu, yuk!” seru Silva. “Biar ada kenang-kenangan kalau kita pernah berjuang di Forensik Digital.”
 
-“Kampus, kos, game.” Nino menoleh ke arah Juan, menyeringai. “Sama satu bonus spesial.”
+Kursi-kursi digeser dengan suara berdecit yang nyaring. Mahasiswa mulai berkumpul ke depan. Ada yang berebut posisi di depan, ada yang sibuk merapikan rambut. Juan berdiri agak di barisan belakang, sementara Nino menyikut lengannya.
 
-Juan mengangkat alisnya. “Apa?”
+“Wan, maju dikit, jangan di belakang banget,” bisik Nino.
 
-“Halu.”
+Juan menurut, menggeser posisinya hingga sedikit lebih dekat ke arah asisten dosen. Seorang mahasiswa mengangkat ponsel tinggi-tinggi. Hitungan mundur dimulai.
 
-Tawa Juan meledak. “Kurang ajar lu!”
+“Satu… dua… tiga!”
 
-Mereka kembali larut dalam obrolan receh—membahas dosen yang pelit nilai hingga teman-teman seangkatan yang mendadak hilang ditelan bumi. Sampai pada satu jeda yang sunyi, ketika game sedang di-*pause* dan hanya suara kipas laptop yang berderu keras, pikiran Juan melenceng ke jalur yang selama ini ia kunci rapat.
+*Klik.*
 
-“No,” panggilnya pelan.
+Tawa kecil meledak setelahnya. Ada yang protes karena matanya terpejam, ada yang minta ulang karena merasa wajahnya tertutup orang lain. Di momen yang riuh itu, interaksi mengalir begitu saja—terasa terlalu banyak untuk dianggap angin lalu, namun terlalu sedikit untuk bisa ditahan selamanya.
 
-“Hm?” sahut Nino tanpa menoleh.
+Saat mahasiswa lain mulai berkemas, suara ritsleting tas dan gesekan kursi kembali mendominasi. Juan menatap layar ponselnya sejenak, menarik napas panjang, lalu melangkah menuju meja asdos.
 
-Juan duduk lebih tegak, matanya menatap kosong ke arah tembok. “Kalau misalnya… gue ngasih sesuatu ke Kak Hana, aneh nggak menurut lu?”
+“Kak,” panggilnya, mencoba menjaga suaranya tetap stabil.
 
-Nino langsung bangun, duduk bersila dengan ekspresi penuh minat. “Ngasih apa? Cokelat lagi? Kan lu bilang pemberian dia berharga, masa mau lu balikin?”
+Hana menoleh, tangannya sedang merapikan beberapa berkas. “Iya, Juan?”
 
-Juan berpikir sejenak. “Sesuatu yang… nggak biasa. Biar berkesan.”
+“Bagi foto yang tadi dong, Kak. *Share*-in ke aku bisa nggak?” tanya Juan se-casual mungkin.
 
-Nino menyipitkan mata, otaknya bekerja keras mencari opsi paling absurd. “Beras.”
+Hana tertawa kecil, sebuah suara yang selalu berhasil membuat Juan terpaku. “Wkwkwkwk. Kenapa? Mau sekalian minta *game* Subway Surfers juga?”
 
-“Bangke!” Juan tertawa terpingkal-pingkal. “Lu kira gue mau lamaran pakai bantuan sosial?”
+Juan ikut tertawa, merasa tertangkap basah. “Waduh, ketahuan kalau zaman dulu sering tukeran *game*.”
 
-“Ya kan *out of the box*, Bre!” Nino ikut terbahak. “Atau apa ya… nasi padang aja sekalian?”
+Hana mengeluarkan ponselnya dari saku. “AirDrop ya?”
 
-Tawa Juan mendadak berhenti. Ia menoleh perlahan ke arah Nino dengan tatapan yang sulit diartikan.
+“Iya, Kak.”
 
-“…eh.”
+Nama ponsel Juan muncul di layar Hana. Dalam hitungan detik, notifikasi masuk di ponselnya. Satu foto. Dua foto. Tiga foto. Juan membuka galeri, menatap foto-foto itu lebih lama dari yang seharusnya. Bukan karena komposisinya bagus, tapi karena ia tahu momen ini tidak akan terulang lagi di semester depan.
 
-Nino langsung tersentak. “Serius lu? Lu beneran kepikiran nasi padang?”
+Sebelum kelas benar-benar kosong, Hana dan Silva membagikan bingkisan kecil untuk semua mahasiswa.
 
-“Serius,” sahut Juan mantap. “Kenapa emang? Biar beda dari cowok-cowok yang ngasih bunga atau kopi kekinian.”
+“Ini cuma kenang-kenangan kecil ya,” kata Silva saat menyerahkan bingkisan ke Juan. “Tanda kalian sudah lulus semester tiga.”
 
-Nino tertawa semakin keras, kali ini sampai memegang perutnya. “Gila! Siapa coba orang PDKT modalnya nasi padang karet dua? Mana ada romantis-romantisnya!”
+Juan menerima bingkisan plastik transparan itu. Di dalamnya terlihat biskuit Bang-Bang, satu kotak Ultramilk cokelat, dan dua bungkus Cokelatos.
 
-“Makanya,” Juan nyengir penuh kemenangan. “Biar diingat selamanya sebagai cowok paling aneh.”
+“Makasih banyak ya, Kak Hana,” kata Juan sambil menatap Hana tepat di matanya.
 
-“Ngomong doang lu,” tantang Nino. “Paling ujung-ujungnya cuma jadi wacana.”
+Hana tersenyum tulus. “Iya, sama-sama, Juan. Sukses terus ya.”
 
-Juan menatap tajam sahabatnya itu. “Kalau gue berani—”
+Nino, yang sudah berdiri di samping Juan, melirik isi bingkisan itu dengan dahi berkerut. “Wan,” bisiknya sambil menunjuk plastik itu. “Bukannya lu nggak doyan cokelat ya?”
 
-“—apa?”
+Juan menoleh cepat, mencoba menyembunyikan plastik itu ke balik punggungnya. “Kenapa emangnya?”
 
-“Gue traktir lu ke Warung Biru sepuasnya.”
+“Itu isinya cokelat semua, Bre. Sini, kasih gue aja daripada mubazir,” kata Nino sambil menjulurkan tangan.
 
-Nino langsung berdiri tegak, matanya berbinar. “LAH! Beneran ya? Oke, gue pegang omongan lu. *Deal*!”
+Juan langsung menatapnya sinis, memeluk bingkisan itu seolah itu adalah harta karun nasional. “Yeee! Baru juga seneng dikasih, udah mau lu rampok aja.”
 
-#### tau ga, asliny ini tu belum selese bab nya, sengaja aku cut aja wkwkwk. sabar-sabar. sekalian bikin bab yg laen baru aku up bareng.
+Nino tertawa terpingkal-pingkal. “Bercanda, Wan! Segitunya amat.”
+
+“Kaga ada ya,” sahut Juan tegas. “Ini pemberian dari *my* asdos. Berharga nih.”
+
+Nino mendengus sambil menggelengkan kepala. “Yaelah. *My* asdos, *my* asdos. Silva juga asdos lu kali.”
+
+Juan tidak membalas lagi. Ia hanya tersenyum kecil sambil terus memeluk bingkisan cokelat yang sebenarnya tidak terlalu ia sukai itu. Namun, di kepalanya, sebuah pikiran berputar dengan ritme yang melambat:
+
+Semester ini sudah benar-benar selesai—dan ia benar-benar tidak tahu kapan atau di mana frekuensinya akan bertemu dengan Hana kembali.
 
 ---
+

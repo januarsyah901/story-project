@@ -1,0 +1,109 @@
+/* stylelint-disable at-rule-no-unknown */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* stylelint-enable at-rule-no-unknown */
+
+@layer base {
+  :root {
+    --background: 255 255 255;
+    --foreground: 10 10 10;
+  }
+
+  .dark {
+    --background: 10 10 10;
+    --foreground: 245 245 245;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-white dark:bg-gray-950 text-gray-900 dark:text-gray-100;
+    font-feature-settings:
+      "rlig" 1,
+      "calt" 1;
+  }
+}
+
+@layer components {
+  .prose-reader {
+    @apply max-w-[700px] mx-auto;
+  }
+
+  .prose-reader p {
+    @apply text-lg leading-relaxed mb-6 text-gray-800 dark:text-gray-200;
+    line-height: 1.9;
+  }
+
+  .prose-reader h1 {
+    @apply text-3xl font-bold mb-8 text-gray-900 dark:text-gray-100;
+  }
+
+  .prose-reader h2 {
+    @apply text-2xl font-semibold mb-6 mt-12 text-gray-900 dark:text-gray-100;
+  }
+
+  .prose-reader h3 {
+    @apply text-xl font-semibold mb-4 mt-8 text-gray-900 dark:text-gray-100;
+  }
+
+  .prose-reader blockquote {
+    @apply border-l-4 border-gray-300 dark:border-gray-700 pl-6 my-6 italic text-gray-600 dark:text-gray-400;
+  }
+
+  .prose-reader ul,
+  .prose-reader ol {
+    @apply mb-6 pl-6;
+  }
+
+  .prose-reader li {
+    @apply mb-2 text-lg text-gray-800 dark:text-gray-200;
+  }
+
+  .prose-reader a {
+    @apply text-blue-600 dark:text-blue-400 underline underline-offset-2 hover:text-blue-700 dark:hover:text-blue-300 transition-colors;
+  }
+
+  .prose-reader hr {
+    @apply my-12 border-gray-200 dark:border-gray-800;
+  }
+
+  .prose-reader em {
+    @apply italic;
+  }
+
+  .prose-reader strong {
+    @apply font-semibold text-gray-900 dark:text-gray-100;
+  }
+
+  .prose-reader code {
+    @apply bg-gray-100 dark:bg-gray-800 px-1.5 py-0.5 rounded text-sm font-mono;
+  }
+
+  .prose-reader pre {
+    @apply bg-gray-100 dark:bg-gray-800 p-4 rounded-lg overflow-x-auto mb-6;
+  }
+
+  .prose-reader pre code {
+    @apply bg-transparent p-0;
+  }
+
+  .prose-reader img {
+    @apply rounded-lg my-8 mx-auto max-w-full;
+  }
+}
+
+/* Reading-focused font sizing */
+@media (min-width: 640px) {
+  .prose-reader p,
+  .prose-reader li {
+    font-size: 1.125rem;
+  }
+}
+
+/* Selection color */
+::selection {
+  @apply bg-blue-200 dark:bg-blue-800;
+}

@@ -282,7 +282,7 @@ Dan malam itu, suara hujan masih menemani. Tapi kini tak hanya gelak tawa yang t
 Setelah sekitar 15 menit sesi belajar loop sambil diselingi komentar-komentar receh, Ziva akhirnya menyandarkan tubuhnya di sandaran kursi, lalu menoleh ke Alifi.
 
 > **Ziva (dengan nada sok pede):**  
-> "Ini mah gampang nuu, yang agak susah dikit napa…"
+> "Ini mah gampang fii, yang agak susah dikit napa…"
 
 Dia jeda sebentar, lalu buru-buru menambahkan dengan cepat:
 

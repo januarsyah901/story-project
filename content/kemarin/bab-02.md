@@ -4,7 +4,6 @@ series: "Kemarin"
 order: 2
 ---
 
-![alt text](assets/image.png)
 "Oke, sebelumnya aku kenalin dulu," Silva membuka suara. Ia berdiri di sisi kanan meja dosen dengan pembawaan yang luwes, seolah ruang kelas ini adalah panggung yang sudah biasa ia kuasai.
 
 "Nama aku Silva. Dan ini—" ia memberikan gestur kecil ke arah perempuan di sampingnya, memberikan panggung, "—Hana."

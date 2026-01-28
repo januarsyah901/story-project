@@ -30,8 +30,6 @@ Kelas langsung dipenuhi bisik-bisik mahasiswa yang setengah panik. Adil menoleh 
 
 Siska hanya menghela napas, menatap layar proyektor tanpa ekspresi. Dari sorot matanya jelas: dia bukan tipe yang suka ribet, tapi juga nggak mau diremehkan.
 
-Oke bang, gue bikin lanjutan scenenya biar ngalir, ada bumbu komedi, sekaligus tetap sesuai vibe kelas. Gue kasih gaya dialog santai khas anak kuliahan, biar karakternya hidup.
-
 Bu Ratna kembali menambahkan instruksi di depan kelas.
 
 > **Bu Ratna:** "Meskipun ini proyek sederhana, tapi tetap butuh _riset_. Cari referensi dari aplikasi yang sudah ada, lalu adaptasikan dengan konsep OOP. Ingat, bukan sekadar copy-paste, ya."
@@ -281,4 +279,4 @@ Suara Aini udah mulai ngorok di kasur sebelah, tapi Ziva masih terjaga, tenggela
 
 ---
 
-maap banget gw ini yaaa, sori berkali" soalnya ini cerpen kaga tau ada lanjutannya
+#### Mon maap ygy, jadi untuk yang series ini kemungkinan akan hiatus cukup lama, semoga author bisa segera melanjutkan yaa

@@ -45,7 +45,7 @@ Hana menghembuskan napas panjang di seberang sana. Ada nada haru yang sulit ia s
 
 "Bukan tumben, lagi kesambet keberanian aja nih," Juan terkekeh kecil. "Jadi, gimana? Kita bikin kejutan ya? Aku datang pas acara makan malam keluarga kamu. Kamu jangan bilang siapa-siapa kalau aku mau ke sana."
 
-Hana tertawa pelan, tawa yang membuat Juan merasa keputusannya benar. "Yakin ya? Jangan tiba-tiba putar balik pas sudah di depan gerbang hijau."
+Hana tertawa pelan, tawa yang membuat Juan merasa keputusannya benar. "Yakin ya? Jangan tiba-tiba putar balik pas sudah di parkiran."
 
 "Nggak akan. Supra-ku nggak punya gigi mundur, Na," canda Juan.
 
